@@ -1,2 +1,4 @@
 # Ardoscopio
-Simples Osciloscópio usando Arduino e OLED 128x64, 
+Osciloscopio de 1MHz
+de facil montagem
+Whataspp +55 98 999683780
